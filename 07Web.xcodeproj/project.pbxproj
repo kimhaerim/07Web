@@ -13,6 +13,7 @@
 		185CD95C25EE8A6000621DBC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185CD95A25EE8A6000621DBC /* Main.storyboard */; };
 		185CD95E25EE8A6300621DBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 185CD95D25EE8A6300621DBC /* Assets.xcassets */; };
 		185CD96125EE8A6300621DBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185CD95F25EE8A6300621DBC /* LaunchScreen.storyboard */; };
+		185CD96A25EE994F00621DBC /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 185CD96925EE994F00621DBC /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		185CD95D25EE8A6300621DBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		185CD96025EE8A6300621DBC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		185CD96225EE8A6300621DBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		185CD96925EE994F00621DBC /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				185CD95425EE8A6000621DBC /* AppDelegate.swift */,
 				185CD95625EE8A6000621DBC /* SceneDelegate.swift */,
 				185CD95825EE8A6000621DBC /* ViewController.swift */,
+				185CD96925EE994F00621DBC /* htmlView.html */,
 				185CD95A25EE8A6000621DBC /* Main.storyboard */,
 				185CD95D25EE8A6300621DBC /* Assets.xcassets */,
 				185CD95F25EE8A6300621DBC /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				185CD96A25EE994F00621DBC /* htmlView.html in Resources */,
 				185CD96125EE8A6300621DBC /* LaunchScreen.storyboard in Resources */,
 				185CD95E25EE8A6300621DBC /* Assets.xcassets in Resources */,
 				185CD95C25EE8A6000621DBC /* Main.storyboard in Resources */,
